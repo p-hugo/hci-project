@@ -1,0 +1,24 @@
+{
+  "name": "songdb-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-hugo/hci-project.git"
+  },
+  "author": "Hugo Perdomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-hugo/hci-project/issues"
+  },
+  "homepage": "https://github.com/p-hugo/hci-project#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
