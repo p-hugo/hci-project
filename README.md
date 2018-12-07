@@ -14,5 +14,5 @@ To run this code you need NodeJS installed or you can opt for an apache serving 
 
 **Option 2: Serving files with apache**
 
-Simply move all the files under the `buil/` directory to your **sites** directory. 
+Simply move all the files under the `build/` directory to your **sites** directory. 
 You might have configured this previously or not but this directory is usually found under `/var/www/html` on linux systems.
